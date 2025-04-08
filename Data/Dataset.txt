@@ -1,3 +1,5 @@
 Movies Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 Streaming Platforms: https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
 Top 1000 Highest grossing Movies: https://www.kaggle.com/datasets/therealoise/top-1000-highest-grossing-movies-of-all-time
+
+Milestone 2 data google drive link: https://drive.google.com/file/d/1NT8PZlmp0_6VgyWUPH-kxBVXxSUC67W0/view?usp=sharing
