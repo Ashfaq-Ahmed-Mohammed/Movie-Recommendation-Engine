@@ -47,6 +47,12 @@ Please find the links below for Milestone 3 submissions.
 
 This is an interactive Streamlit app that recommends movies based on user input. It supports clustering-based approaches as well as FastText-based semantic similarity.
 
+## Streamlit Cloud
+
+You can run this app directly in your browser via Streamlit Cloud without installing anything.
+
+Link: https://mainpy-xfgck8om3dmndpyt8rbppe.streamlit.app/
+
 ## Features
 
 - Select a movie from a 3x3 grid of recent popular titles.
@@ -75,12 +81,6 @@ This is an interactive Streamlit app that recommends movies based on user input.
     ```bash
     streamlit run main.py
     ```
-
-## Streamlit Cloud
-
-You can run this app directly in your browser via Streamlit Cloud without installing anything.
-
-Link: https://mainpy-xfgck8om3dmndpyt8rbppe.streamlit.app/
 
 ## Models
 
