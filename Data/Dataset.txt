@@ -3,3 +3,5 @@ Streaming Platforms: https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-
 Top 1000 Highest grossing Movies: https://www.kaggle.com/datasets/therealoise/top-1000-highest-grossing-movies-of-all-time
 
 Milestone 2 data google drive link: https://drive.google.com/file/d/1NT8PZlmp0_6VgyWUPH-kxBVXxSUC67W0/view?usp=sharing
+
+Milestone 3 dataset : https://drive.google.com/file/d/1Vm21gfRIXYydj32FUuNcMCg8Ii1D9_HP/view?usp=drive_link
