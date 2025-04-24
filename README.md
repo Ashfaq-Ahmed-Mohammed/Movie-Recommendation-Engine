@@ -57,6 +57,7 @@ This is an interactive Streamlit app that recommends movies based on user input.
   - FastText (text similarity)
 - Visualize recommendations and cluster positions using PCA.
 
+
 ## How to Run Locally
 
 1. Clone the repository:
@@ -99,4 +100,13 @@ Link: https://your-app-name.streamlit.app
 - matplotlib
 
 See `requirements.txt` for pinned versions.
+
+## Links to reports from Milestones
+
+- [Milestone 1 report](https://github.com/Ashfaq-Ahmed-Mohammed/cap5771sp25-project/blob/main/Report/Milestone1.pdf)
+- [Milestone 2 report](https://github.com/Ashfaq-Ahmed-Mohammed/cap5771sp25-project/blob/main/Report/Milestone2.pdf)
+- [Milestone 3 report](https://github.com/Ashfaq-Ahmed-Mohammed/cap5771sp25-project/blob/main/Report/Milestone3.pdf)
+
+
+
 
