@@ -80,7 +80,7 @@ This is an interactive Streamlit app that recommends movies based on user input.
 
 You can run this app directly in your browser via Streamlit Cloud without installing anything.
 
-Link: https://your-app-name.streamlit.app
+Link: https://mainpy-xfgck8om3dmndpyt8rbppe.streamlit.app/
 
 ## Models
 
