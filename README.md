@@ -73,7 +73,7 @@ This is an interactive Streamlit app that recommends movies based on user input.
 
 3. Run the app:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 ## Streamlit Cloud
