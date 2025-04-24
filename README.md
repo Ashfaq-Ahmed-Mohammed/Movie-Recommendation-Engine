@@ -9,7 +9,7 @@ Streaming platform Dataset: [Streaming Platfrom](https://www.kaggle.com/datasets
 
 Top 1000 Highest grossing Movies: [Top 1000 Highest grossing Movies](https://www.kaggle.com/datasets/therealoise/top-1000-highest-grossing-movies-of-all-time)
 
-## Dataset used for Milestone 2 after EDA and Preprocessing.
+## Dataset used for Milestone 2 and Milestone 3
 
 Google Drive Link: [Milestone 2 Data](https://drive.google.com/file/d/1NT8PZlmp0_6VgyWUPH-kxBVXxSUC67W0/view?usp=sharing)
 
