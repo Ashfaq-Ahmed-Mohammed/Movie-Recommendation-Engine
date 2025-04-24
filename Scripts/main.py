@@ -86,22 +86,22 @@ st.markdown("""
 
 @st.cache_data
 def load_resources():
-    df = pd.read_csv("Scripts/models/Data_clustered.csv")
+    df = pd.read_csv("models/Data_clustered.csv")
     df['title'] = df['title'].astype(str).str.strip()
     df['popularity'] = pd.to_numeric(df['popularity'], errors='coerce')
 
-    with open("Scripts/models/kmeans_model.pkl", "rb") as f:
+    with open("models/kmeans_model.pkl", "rb") as f:
         kmeans = pickle.load(f)
-    with open("Scripts/models/dbscan_model.pkl", "rb") as f:
+    with open("models/dbscan_model.pkl", "rb") as f:
         dbscan = pickle.load(f)
-    with open("Scripts/models/gmm_model.pkl", "rb") as f:
+    with open("models/gmm_model.pkl", "rb") as f:
         gmm = pickle.load(f)
-    with open("Scripts/models/fasttext_vectors.pkl", "rb") as f:
+    with open("models/fasttext_vectors.pkl", "rb") as f:
         fasttext_vectors = pickle.load(f)
-    with open("Scripts/models/title_to_index.pkl", "rb") as f:
+    with open("models/title_to_index.pkl", "rb") as f:
         title_to_index = pickle.load(f)
 
-    combined_features = np.load("Scripts/models/combined_features.npy")
+    combined_features = np.load("models/combined_features.npy")
 
     return df, kmeans, dbscan, gmm, fasttext_vectors, title_to_index, combined_features
 
